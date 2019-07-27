@@ -63,7 +63,7 @@ Codes:
   * Paper: [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/abs/1503.03832)
   * Paper: [Going deeper with convolutions (Inception Networks)](https://arxiv.org/abs/1409.4842)
 
-## Course 5. [Sequential Models](https://www.coursera.org/learn/nlp-sequence-models) 
+## Course 5. [Sequential Models - Will be completing this soon](https://www.coursera.org/learn/nlp-sequence-models) 
 * Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs. 
 * Be able to apply sequence models to natural language problems, including text synthesis. 
 * Be able to apply sequence models to audio applications, including speech recognition and music synthesis.
